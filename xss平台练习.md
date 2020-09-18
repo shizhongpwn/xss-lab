@@ -199,3 +199,12 @@ keyword = test&t_sort="type="text" onmouseover=alert`1`
 
 我们通过闭合然后是的输入框显示出来，然后用js时间就可以出发xss
 
+## level11
+
+http头存在xss,但是觉得如果看不到源码的话，这应该是很难发现的吧。。。emmm
+
+## level12
+
+和level10的payload一样，不过这次的注入点在User-Agent
+
+> 反射型xss比较不是很重要。。。emmm，就先练习到这里啦
